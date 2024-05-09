@@ -10,19 +10,19 @@
 4. 주요 기능:
 
 
-  Sphere를 RayTracing 렌더링
+    Sphere를 RayTracing 렌더링
 
 
-  Lighting을 적용해 조명 효과 표현
+    Lighting을 적용해 조명 효과 표현
   
   
-  Shadow를 적용해 그림자 표현
+    Shadow를 적용해 그림자 표현
   
   
-  Reflection을 적용해 물체 간 반사를 표현
+    Reflection을 적용해 물체 간 반사를 표현
   
   
-  Refraction을 적용해 굴절 효과 표현
+    Refraction을 적용해 굴절 효과 표현
 
   
 6. 내부 스크린샷:
