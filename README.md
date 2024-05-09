@@ -9,13 +9,24 @@
 
 4. 주요 기능:
   Sphere를 RayTracing 렌더링
+
+
   Lighting을 적용해 조명 효과 표현
+  
+  
   Shadow를 적용해 그림자 표현
+  
+  
   Reflection을 적용해 물체 간 반사를 표현
+  
+  
   Refraction을 적용해 굴절 효과 표현
 
-5. 내부 스크린샷:
+  
+6. 내부 스크린샷:
 ![out](https://github.com/subtle852/TinyRayTracer_Study/assets/125884023/afb3d8ea-2820-4043-9a7c-38e69259cbd2)
 
-6. 참고 출처:
+
+
+7. 참고 출처:
 <https://github.com/ssloy/tinyraytracer/wiki/Part-1:-understandable-raytracing>
